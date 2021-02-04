@@ -2,6 +2,6 @@
 
 <h3> Um deploy automático feito com alunos do Itaú </h3>
 
-<div style="width:200px;height:200px;backgroup:yellow">
+<div style="width:200px;height:200px;background:yellow">
     Um teste em um quadrado
 </div>
