@@ -6,12 +6,12 @@
 <div style="width:200px;height:200px;background:lightgreen;padding:50px;margin:10px"> 
 <i><b><center>    Um teste em um quadrado </center></b></i>
 <br>
-<img src="bike1.jpeg" style="width 100px">
+<center><img src="bike1.jpeg" style="width 100px"></center>
 </div>
 
 <div style="width:200px;height:200px;background:dodgerblue;color:white;padding:50px;margin:10px">
 <i><b><center>    Um teste em um quadrado </center></b></i>
 <br>
-<img src="bike2.jpeg" style="width 100px">
+<center><img src="bike2.jpeg" style="width 100px"></center>
 </div>
 </div
